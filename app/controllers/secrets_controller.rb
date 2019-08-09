@@ -1,5 +1,5 @@
 class SecretsController < ApplicationController
-  def new 
+  def new
   end
 
 end
